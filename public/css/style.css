@@ -1,0 +1,21 @@
+/*
+override css
+*/
+
+.margin-top-20{
+  margin-top: 20px;
+}
+
+.max-height{
+  height: 200px;
+}
+
+.footer-bottom{
+  padding: 20px;
+  margin-top: 20px;
+  background: #007bff;
+}
+
+.nav-color{
+  background: #007bff;
+}
